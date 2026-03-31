@@ -14,10 +14,10 @@ The algorithms were rigorously tested using the official UC Berkeley autograder,
 
 ## How to Run
 To watch the A* agent solve the maze using the custom food search heuristic, run the following command in the terminal:
-<pre>
-bash
+
+```bash
 python pacman.py -l bigSearch -p AStarFoodSearchAgent
-</pre>
+```
 ## Project Architecture & Credits
 This project was developed within an game engine given.
 
