@@ -1,7 +1,7 @@
 # Pac-Man AI: A* Pathfinding & Heuristic Search
 
 ## Overview
-An AI agent for Pac-Man developed to solve complex navigation and pathfinding problems. This project implements fundamental AI search algorithms, focusing on highly optimized **A* (A-Star) Search** and the design of admissible, consistent heuristics.
+An AI agent for Pac-Man developed to solve complex navigation and pathfinding problems. This project implements fundamental AI search algorithms, focusing on highly optimized **A-Star Search** and the design of admissible, consistent heuristics.
 
 ## Core Implementations
 * **Search Algorithms (`search.py`):** Implemented Depth-First Search (DFS), Breadth-First Search (BFS), Uniform Cost Search (UCS), and A* Search.
@@ -23,4 +23,4 @@ This project was developed within an game engine given.
 
 * **My Contribution (search.py & searchAgents.py):** I completely designed and implemented, with my team, the search algorithms (DFS, BFS, UCS, A*) and the custom heuristic evaluation functions for complex spatial problems.
 
-* **Provided Framework:** The core game loop, board state management, ghost agents logic, and graphical interface (pacman.py, game.py, etc.) were provided as the base engine for the project by teachers.
+* **Provided Framework:** The core game loop, board state management, ghost agents logic, and graphical interface (pacman.py, game.py, etc.) were provided as the base engine for the project by the course faculty.
